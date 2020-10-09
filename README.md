@@ -53,6 +53,7 @@ int main()
     return 0;
 }
 
+
 <p align="center">
-<img src="https://github.com/Tejas281/STL/blob/master/Binary_Search.PNG?raw=true" width="350"/>
+<img src="https://radicalhub.com/wp-content/uploads/2018/07/javascript.jpg" width="350"/>
 </p>
