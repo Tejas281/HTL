@@ -422,7 +422,7 @@ using namespace std;
 
 
 <!-- tocstop -->
-###Vector Sort Capacity
+### Vector Sort Capacity
 ```C++
 
 #include<iostream>
@@ -475,7 +475,7 @@ int main()
 </p>
 
 <!-- tocstop -->
-###Vector Sort Capacity Max Size
+### Vector Sort Capacity Max Size
 ```C++
 
 #include<iostream>
@@ -528,7 +528,7 @@ int main()
 
 
 <!-- tocstop -->
-###Vector Sort Clear
+### Vector Sort Clear
 ```C++
 
 
@@ -582,7 +582,7 @@ int main()
 
 
 <!-- tocstop -->
-###Vector Sort Reserve
+### Vector Sort Reserve
 ```C++
 #include<iostream>
 #include<vector>
@@ -632,7 +632,7 @@ int main()
 </p>
 
 <!-- tocstop -->
-###Custom Comparater Priority Queue
+### Custom Comparater Priority Queue
 ```C++
  #include<iostream>
  #include<vector>
