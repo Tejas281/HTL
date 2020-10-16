@@ -23,7 +23,7 @@
   * [Vector Sort Reserve](#Vector-Sort-Reserve)
   * [Vector Sort Clear](#Vector-Sort-Clear)
   * [Vector Sort Revers](#Vector-Sort-Revers)
-  * [Custom Comparater Priority Queue](#Custom-Comparater-Priority-Queue)
+  * [Custom Comparater Priority Queue](#custom-comparater-priority-queue)
 
 
  
