@@ -3,7 +3,7 @@
  #include<functional>
  #include<queue>
 using namespace std;
-
+ 
 class car
 {
 	public:
@@ -25,7 +25,7 @@ class car
 	void print()
 	{
 		cout<<"ID:-"<<id;
-		cout<<"LOCATION :"<<x<<","<<y<<endl;
+		cout<<"LOCATION :"<<x<<",,,"<<y<<endl;
 	}
 		
 };
